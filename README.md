@@ -24,3 +24,6 @@ To predict the price of a car based on various attributes like brand, fuel type,
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. run streamlit run command
+
+DEPLOYED LINK : https://carpricepredictorr.streamlit.app/
